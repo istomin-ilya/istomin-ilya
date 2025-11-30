@@ -37,7 +37,7 @@ I am a **Software Engineering student at U-tad (Madrid)** seeking a **Curricular
 | [**Delivery Notes API**](https://github.com/istomin-ilya/digitalization_of_delivery_notes) | Digitalization system for logistics. Includes IPFS integration for document storage and digital signatures. | **Node.js, PostgreSQL, IPFS, Swagger** |
 | [**Anime Discovery**](https://github.com/istomin-ilya/anime_project) | Content discovery platform with database migrations and environment configuration. | **Flask, SQLAlchemy, PostgreSQL** |
 
----
+<!---
 
 ### 📊 GitHub Stats
 
@@ -46,7 +46,7 @@ I am a **Software Engineering student at U-tad (Madrid)** seeking a **Curricular
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istomin-ilya&layout=compact&theme=github_dark" alt="Top Languages" height="150">
 </p>
 
----
+--->
 
 ### 📬 Contact
 
